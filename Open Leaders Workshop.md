@@ -22,7 +22,7 @@
 * Public vs Private is distinct from open vs closed
 
 ### What's Public data? 
-*  Research data
+* e.g Research data
 * Definition: Information that could be legally and legitimately brought or sold to someone else e.g music, movies, software
 
 ### What's Private data?
@@ -92,8 +92,8 @@ Earlier in the structure we often appologise for the objections to the call to a
 
 ## The context that matters
 
-1 We have more processing power
-2 Data is different / information is different. Having a house doesn't mean there is a copy for everyone - having a copy of gangman style means there is. 
+1. We have more processing power
+2. Data is different / information is different. Having a house doesn't mean there is a copy for everyone - having a copy of gangman style means there is. 
 
 ### My example
 
@@ -133,15 +133,15 @@ I'm passionate about:
 
 A generic structure for conversations about Open:
 
-1 Situation/Context: I care about <<thing>> because <<reason>>
-2 What's the problem / challenge / danger
-3 How openness is an antidote to the above / what's the difference openness will make
+1. Situation/Context: I care about <<thing>> because <<reason>>
+2. What's the problem / challenge / danger
+3. How openness is an antidote to the above / what's the difference openness will make
 
 A example structure for "my" conversation about open:
 
-1 I care about curing diseases. I used to be a scientist.  
-2 The problem is the way scientists share is stupid. 
-3 Openness makes the difference because it allows scientsits to work together better and cure these diseases faster
+1. I care about curing diseases. I used to be a scientist.  
+2. The problem is the way scientists share is stupid. 
+3. Openness makes the difference because it allows scientsits to work together better and cure these diseases faster
 
 Examples for general structures that relate to everyone - the two m's - music & medicine. 
 
@@ -170,7 +170,11 @@ Fear sells. Stress what's wrong.
 
 For example, Google. For Rufus that means people get all their information about him there.
 
-Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections.  
+Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections. 
+
+### Exersize
+
+* Take 30 seconds to explain what happens if we do nothing - or what the big problems are
 
 # Day 1 - Takeaways
 
