@@ -213,18 +213,44 @@ This is the major mechanism we've funded public goods, and will continue to have
 
 We could have open spotify for 90p a month. 
 
-2. How would we make it happen? 
+[Insert Graphic from Slide]
 
-* 
+* The model takes the best of both socialism and capitalism.
+* In this model you may still pay for servers, or you might still pay the rivelrous costs of a drug. But you don't pay for the idea or IP. 
 
 # Day 1 - Afternoon - Part 2
 
-### Medicine 
+
+2. How would we make it happen? 
+
+* Change minds
+.* Mistaken Mental Models: People think books are like bread. 
+* Poor Power Dynamics
+.* Lobbiest
+.* When you have people on your side - 
+
+* Make it ourselves
+
+# This is what the Leaders Program is About
+* Change minds
+* ???
+So, we need a project to practice. It can be either:
+* Something you're already working on
+* Something new
+but it needs you to allow you to practice what your learning here. 
+
+The project needs to be: SMART. 
+
+My ideas:
+
+* Community Strategy for OpenCon
+* OAB something? 
 
 # Day 1 - Takeaways
 
 * OpenCon: First name on badges should be big
 * Watch this: Fransis erving "burning the digital paper"
+* Learn about https://www.redhat.com/en business model
 
 # Day 2 - Morning - Part 1 
 # Day 2 - Morning - Part 2
