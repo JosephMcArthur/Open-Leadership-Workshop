@@ -267,6 +267,7 @@ My ideas:
 * OpenCon: First name on badges should be big
 * Watch this: Francis Erving "burning the digital paper"
 * Learn about https://www.redhat.com/en business model
+* What I may have picked up is a fear of failure - as it's MY failure. Is this why I'm struggling with work now, as failure comes with a higher cost. 
 
 # Day 2 - Morning - Part 1 
 # Day 2 - Morning - Part 2
