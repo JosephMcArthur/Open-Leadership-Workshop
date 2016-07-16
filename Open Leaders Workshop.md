@@ -20,11 +20,13 @@
 
 * Often defined as vs closed. 
 * Public vs Private is distinct from open vs closed
-* What's Public data? 
-*  Research data
 
-* What's Private data?
-*  Often personal
+### What's Public data? 
+*  Research data
+* Definition: Information that could be legally and legitimately brought or sold to someone else e.g music, movies, software
+
+### What's Private data?
+*  Personal infomation
 *  the types of information Facebook has on us
 
 Data & information insect at many different points. 
@@ -93,7 +95,6 @@ Earlier in the structure we often appologise for the objections to the call to a
 1 We have more processing power
 2 Data is different / information is different. Having a house doesn't mean there is a copy for everyone - having a copy of gangman style means there is. 
 
-
 ### My example
 
 * What's special about humans is that we make stuff
@@ -156,6 +157,21 @@ Finally, why open ever more generally:
 * Well-being [insert slide text]
 
 # Day 1 - Afternoon
+
+## What is Leadership?
+
+Enrolling someone by touch, moving and inspiring them. Instead getting them to do stuff "by force". By force doesn't mean physical, but by imposing authority or having them reluctantly agree. Getting people to do things "by force" often leads to the experiance of "this person said they'd do something, but then they didn't". 
+
+## What happens if we do nothing or what's the probable future
+
+* Centralized propriatary world 
+
+Fear sells. Stress what's wrong. 
+
+For example, Google. For Rufus that means people get all their information about him there.
+
+Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections.  
+
 # Day 1 - Takeaways
 
 * OpenCon: First name on badges should be big
