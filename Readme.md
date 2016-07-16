@@ -12,3 +12,4 @@ While doing this I learned:
 * I need to work on my markdown skills
 * I miss the on the fly formatting
 * Landmark style in these types of training sessions seems really good
+* This type of training is super useful. 

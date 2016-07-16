@@ -237,14 +237,29 @@ So, we need a project to practice. It can be either:
 * Something new
 but it needs you to allow you to practice what your learning here. 
 
-The project needs to be: SMART. 
+The project needs to: have a metric, inspire others, be fun, promote open. It needs to give you a chance practice your skills. 
 
 My ideas:
 
 * Community Strategy for OpenCon?
-* OAB something, discussions with Authors about datasets and articles?
-* Do one an Open Leadership Workshop? 
+* OAB something, discussions with Authors about datasets and articles? Grant proposal. 
+* Do an Open Leadership Workshop? 
 * Open Slide deck and new deck for the community?
+* Simply have my friends understand what I do, why I do it, and be excited about it (friends could = random people in coffee shop)
+* ImpactStory idea
+
+# Day 1 - Evening
+
+[Integrity slides from Rufus]
+
+* Need honouring your word slide on a code of conduct or something like that.
+* HONOURING your word is different to keeping your word. 
+
+[Restoring intergrity slide]
+
+* Comment(s) from the crowd that this might be appropriate for all cultures. 
+* What you put in place must be something outside yourself. "I'll try harder" has no real traction. 
+* Important to say this outloud and include the impact on yourself. Humans often reflect by speaking. 
 
 # Day 1 - Takeaways
 
