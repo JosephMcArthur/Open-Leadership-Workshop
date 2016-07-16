@@ -1,6 +1,6 @@
 # Open Knowledge Leaders Program
 
-# Day one - Morning Part 1
+# Day one - Morning - Part 1
 
 ## Intros & Rules
 
@@ -108,7 +108,7 @@ Open is counter intuative to many. We experiance scarcity in everything we do. I
 
 **Open is better than Cake.**
 
-# Day 1 - Morning Part 2
+# Day 1 - Morning - Part 2
 
 Simple information definition: everything that is or coupld be digitized.
 Open means anyone can freely access, use, modify (or build upon) and share for any purpose.
@@ -155,7 +155,7 @@ Finally, why open ever more generally:
 * Growth [insert slide text]
 * Well-being [insert slide text]
 
-# Day 1 - Afternoon
+# Day 1 - Afternoon - Part 1
 
 ## What is Leadership?
 
@@ -199,8 +199,25 @@ But, to sum it up. Things normally come down too:
 
 1. Who will pay for it? 
 .* Business Models that rely on selling services around the content
+..* Returns a private good
+..* Two types of models
+...1. Ketchup and fries. Have to give away the fries to sell the ketchup.
+...2. Razor and Razor blades.
+
+Sadly this doesn't really cut it for a fully Open world. However, it does give good jobs. Doctors / Engineers / Lawyers are actually ketchup and fries jobs in a way as they rely on a big pool of open information.  
+
 .* Public Money
+..* Returns a public good
+
+This is the major mechanism we've funded public goods, and will continue to have to. Classic example is Research. However, even Linux, and therefor now Android, has roots in public funds. [Insert: Rufus's chainlink here.]
+
+We could have open spotify for 90p a month. 
+
 2. How would we make it happen? 
+
+* 
+
+# Day 1 - Afternoon - Part 2
 
 ### Medicine 
 
@@ -209,8 +226,10 @@ But, to sum it up. Things normally come down too:
 * OpenCon: First name on badges should be big
 * Watch this: Fransis erving "burning the digital paper"
 
-# Day 2 - Morning
-# Day 2 - Afternoon
+# Day 2 - Morning - Part 1 
+# Day 2 - Morning - Part 2
+# Day 2 - Afternoon - Part 1
+# Day 2 - Afternoon - Part 2
 # Day 2 - Takeaways
 
 # MISC
@@ -220,6 +239,7 @@ But, to sum it up. Things normally come down too:
 .* Power
 .* Scarcity / Ubundence
 * The size of tech (in the number of staff) companies getting to IPO's or 1 billion dollars is ever smaller
+* Strategy vs Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics. 
 
 # Acknowledgements
 
