@@ -7,8 +7,7 @@
 * Rufus acknowledges us all for turning up! 
 * His name is Rufus rufus pollock. Been a researcher / activist - now he says "social entreuper". founded & run OK
 * Grew up on a farm, mum doesn't know what he does, had 7 dogs & 3 cats. 
-* Iryna / Era: Only had one cat. Worked in the open space for about 6 years. Before that worked in print companies / banks / . Led ckan for years, which now powers 25 different nation states. Cares about decentralising tech (runs decentralise.org). 
-
+* Iryna / Era: Only had one cat. Worked in the open space for about 6 years. Before that worked in print companies / banks. Led CKAN for years, which now powers 25 different nation states. Cares about decentralising tech (runs decentralise.org). 
 * Mentions coachability (like landmark)
 * Default to private
 * Safe space
@@ -107,7 +106,7 @@ Earlier in the structure we often appologise for the objections to the call to a
 
 Open is counter intuative to many. We experiance scarcity in everything we do. If you have cake, I don't, if you have jobs, I don't, if you have attension, I don't. This means an abundence of information is possible.
 
-### Open is better than Cake. 
+**Open is better than Cake.**
 
 # Day 1 - Morning Part 2
 
