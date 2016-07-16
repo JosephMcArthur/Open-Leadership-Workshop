@@ -5,28 +5,28 @@
 ## Intros & Rules
 
 * Rufus acknowledges us all for turning up! 
-* His name is Rufus rufus pollock. Been a researcher / activist - now he says "social entreuper". founded & run OK
+* His name is Rufus Pollock. Been a researcher / activist - now he says "social entrepreneur". Founded & run OK
 * Grew up on a farm, mum doesn't know what he does, had 7 dogs & 3 cats. 
-* Iryna / Era: Only had one cat. Worked in the open space for about 6 years. Before that worked in print companies / banks. Led CKAN for years, which now powers 25 different nation states. Cares about decentralising tech (runs decentralise.org). 
-* Mentions coachability (like landmark)
+* Irina / Era: Only had one cat. Worked in the open space for about 6 years. Before that worked in print companies / banks. Led CKAN for years, which now powers 25 different nation states. Cares about decentralising tech (runs decentralise.org). 
+* Mentions coach-ability (like landmark)
 * Default to private
 * Safe space
 * Open minds "get what you can out of this"
-* Be present (i.e don't do this)
+* Be present (i.e. don't do this)
 * Be on time bro. 
 
 ## What is open? 
 
-* Often defined as vs closed. 
-* Public vs Private is distinct from open vs closed
+* Often defined as vs. closed. 
+* Public vs. Private is distinct from open vs. closed
 
 ### What's Public data? 
-* e.g Research data
-* Definition: Information that could be legally and legitimately brought or sold to someone else e.g music, movies, software
+* E.g. Research data
+* Definition: Information that could be legally and legitimately brought or sold to someone else e.g. music, movies, software
 
 ### What's Private data?
-*  Personal infomation
-*  the types of information Facebook has on us
+*  Personal information
+*  The types of information Facebook has on us
 
 Data & information insect at many different points. 
 
@@ -51,7 +51,7 @@ Data & information insect at many different points.
 * Complete
 * Dependable
 
-Need to boil that down into what's actually key for open. ** spoilers **: It's the reusable bit. 
+Need to boil that down into what's actually key for open. ** Spoilers **: It's the reusable bit. 
 
 ## Context is important
 
@@ -62,30 +62,30 @@ When you talk about open outside of these circles there is no context. When you 
 
 There is a lot of context needed to order a coffee. Your in a coffee shop, money exists, your both humans, you know what coffee is.  
 
-What context MATTERS to communicate "open"?
+What context MATTERS to communicate, "open"?
 
 ## Why is the digital age special?
 
 * Processing power has doubled every 2 years
 * The cost of sharing is nothing, if not small. 
 * Copy with fidelity
-* Information centralisation
+* Information centralization
 * Filtering problem on the amounts of information
 * Information has become non-rivelrous.   
 * There is now a gatekeeper to accessing info. To read paper you just need your eyes, to read it digitally you need word. That gives word control **cries**. 
 
-Ironically the age which allows the greatest sharing has led to incredible centrilisation and inequality *bwam bwaaaaaam*
+Ironically the age which allows the greatest sharing has led to incredible centralization and inequality *bwam bwaaaaaam*
 
-### Exersize
+### Exercise
 
 * When you say information, people often wont know what you mean. 
-* for many people information = music / video / software / documents
-* give simple, relatable context. 
+* For many people information = music / video / software / documents
+* Give simple, relatable context. 
 
-* Wikipedia is great context. People get that there used to be encylocpedias, now it's all online. 
-* Structure of a conversation: Here is a situation, here is a problem, here is a call to action. 
+* Wikipedia is great context. People get that there used to be encyclopedias, now it's all-online. 
+* Structure of a conversation: Here is a situation, here is a problem, and here is a call to action. 
 
-Earlier in the structure we often appologise for the objections to the call to action. Better to be clear about what you're talking about at each point. Be clear and give simple messages.  
+Earlier in the structure we often apologies for the objections to the call to action. Better to be clear about what you're talking about at each point. Be clear and give simple messages.  
 
 * It's important to practice explaining the context surrounding the information age. 
 
@@ -94,7 +94,7 @@ Earlier in the structure we often appologise for the objections to the call to a
 1. We have more processing power
 2. Data is different / information is different. Having a house doesn't mean there is a copy for everyone - having a copy of gangman style means there is. 
 
-### My example
+### My example
 
 * What's special about humans is that we make stuff
 * Over time we've got better and better at making stuff
@@ -104,13 +104,13 @@ Earlier in the structure we often appologise for the objections to the call to a
 * What's different: You can share freely, and lose nothing
 * However... 
 
-Open is counter intuative to many. We experiance scarcity in everything we do. If you have cake, I don't, if you have jobs, I don't, if you have attension, I don't. This means an abundence of information is possible.
+Open is counter intuitive to many. We experience scarcity in everything we do. If you have cake, I don't, if you have jobs, I don't, if you have attention, I don't. This means an abundance of information is possible.
 
 **Open is better than Cake.**
 
 # Day 1 - Morning - Part 2
 
-Simple information definition: everything that is or coupld be digitized.
+Simple information definition: everything that is or coupled be digitized.
 Open means anyone can freely access, use, modify (or build upon) and share for any purpose.
 
 ## How do you connect openness to people? 
@@ -119,11 +119,11 @@ Yes, you can talk about having people know what the gov spends, but... what abou
 
 * What's the best school locally? 
 * Is this drug right for me? 
-* What's the airquality round here? 
+* What's the air quality round here? 
 
-Often people aren't convinced by logical arguement. What they're convinced by is your way of being, are you excited about something or clearly passionate about it? 
+Often people aren't convinced by logical argument. What they're convinced by is your way of being, are you excited about something or clearly passionate about it? 
 
-Often you're not passionate "open" per-se, but inequality, opportunity or just figuing out how to answer big questions more quickly.
+Often you're not passionate "open" per-se, but inequality, opportunity or just figuring out how to answer big questions more quickly.
 
 I'm passionate about:
 
@@ -136,16 +136,16 @@ A generic structure for conversations about Open:
 2. What's the problem / challenge / danger
 3. How openness is an antidote to the above / what's the difference openness will make
 
-A example structure for "my" conversation about open:
+An example structure for "my" conversation about open:
 
 1. I care about curing diseases. I used to be a scientist.  
 2. The problem is the way scientists share is stupid. 
-3. Openness makes the difference because it allows scientsits to work together better and cure these diseases faster
+3. Openness makes the difference because it allows scientists to work together better and cure these diseases faster
 
 Examples for general structures that relate to everyone - the two m's - music & medicine. 
 
-* the difference between the $20 it costs to make medicine and $60000 it cost to buy off the self is the cost of closed information. Open Science is about people not doing. 
-* Music isn't life and death, but it's universal and relatable. The example of Spotify is really what openness looks like to many. There is abundence, music is discoverable, sharable and more. 
+* The difference between the $20 it costs to make medicine and $60000 it cost to buy off the self is the cost of closed information. Open Science is about people not doing. 
+* Music isn't life and death, but it's universal and relatable. The example of Spotify is really what openness looks like to many. There is abundance, music is discoverable, sharable and more. 
 
 Finally, why open ever more generally:
 
@@ -159,39 +159,37 @@ Finally, why open ever more generally:
 
 ## What is Leadership?
 
-Enrolling someone by touch, moving and inspiring them. Instead getting them to do stuff "by force". By force doesn't mean physical, but by imposing authority or having them reluctantly agree. Getting people to do things "by force" often leads to the experiance of "this person said they'd do something, but then they didn't". 
+Enrolling someone by touch, moving and inspiring them. Instead getting them to do stuff "by force". By force doesn't mean physical, but by imposing authority or having them reluctantly agree. Getting people to do things "by force" often leads to the experience of "this person said they'd do something, but then they didn't". 
 
 ## What happens if we do nothing or what's the probable future
 
-* Centralized propriatary world 
-.* Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections. 
+* Centralized proprietary world 
+.* Back in the day, Western Union gave Intel on the democrats to the republicans and that swayed the elections. 
 
 Fear sells. Stress what's wrong. Wrap that in a story and you're on to a winner.
 
 For example, Google. For Rufus that means people get all their information about him there.
 
-### Exersize
+### Exercise
 
 * Take 30 seconds to explain what happens if we do nothing - or what the big problems are
-
 * You have to be really clear about the problem when you're trying to drive people to action.
 * You need to be clear about what the problem is, and find a clear articulation of the issue. 
-.* How do you feel about your election data in Germany coming from a for-profit corperation in San-Fransisco? Can you imagine anything going wrong with that? 
-
+.* How do you feel about your election data in Germany coming from a for-profit corporation in San Francisco? Can you imagine anything going wrong with that? 
 * Stories of these problems are best followed by stories of hope. Ultimately, Open offers hope.
 
 ## Barriers in the way of Open
 
 ### Music 
 
-* Conseratism
+* Conservatism
 * How will people be payd? 
 * What would I get? Self-interest 
 * Apathy from artists
 * Open will make it worse. Google can just take all the music and make a service and new music. 
 * Who has the power to make this work? 
 * How will the economy work (will people lose jobs)
-* How will it affect artists careers
+* How will it affect artist’s careers?
 * Lack of autonomy or choice or artists
 * Loss of power
 
@@ -209,7 +207,7 @@ Sadly this doesn't really cut it for a fully Open world. However, it does give g
 .* Public Money
 ..* Returns a public good
 
-This is the major mechanism we've funded public goods, and will continue to have to. Classic example is Research. However, even Linux, and therefor now Android, has roots in public funds. [Insert: Rufus's chainlink here.]
+This is the major mechanism we've funded public goods, and will continue to have to. Classic example is Research. However, even Linux, and therefor now Android, has roots in public funds. [Insert: Rufus's chain-link here.]
 
 We could have open spotify for 90p a month. 
 
@@ -231,7 +229,7 @@ We could have open spotify for 90p a month.
 
 * Make it ourselves
 
-# This is what the Leaders Program is About
+# This is what the Leaders Program is about
 * Change minds
 * ???
 So, we need a project to practice. It can be either:
@@ -243,13 +241,15 @@ The project needs to be: SMART.
 
 My ideas:
 
-* Community Strategy for OpenCon
-* OAB something? 
+* Community Strategy for OpenCon?
+* OAB something, discussions with Authors about datasets and articles?
+* Do one an Open Leadership Workshop? 
+* Open Slide deck and new deck for the community?
 
 # Day 1 - Takeaways
 
 * OpenCon: First name on badges should be big
-* Watch this: Fransis erving "burning the digital paper"
+* Watch this: Francis Erving "burning the digital paper"
 * Learn about https://www.redhat.com/en business model
 
 # Day 2 - Morning - Part 1 
@@ -263,9 +263,9 @@ My ideas:
 * Daniel's Phone number: +41 794551705
 * Lenses to look at open through:
 .* Power
-.* Scarcity / Ubundence
+.* Scarcity / Abundance
 * The size of tech (in the number of staff) companies getting to IPO's or 1 billion dollars is ever smaller
-* Strategy vs Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics. 
+* Strategy vs. Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics. 
 
 # Acknowledgements
 

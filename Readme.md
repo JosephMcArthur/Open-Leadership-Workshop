@@ -1,4 +1,4 @@
-# Open Leadership Workshop
+# Open Knowledge Leaders Program Notes
 
 These are my notes from the [Open Leadership Workshop](leaders.rufuspollock.org). I tried to do them via Github and a basic text editor for the first time. 
 
