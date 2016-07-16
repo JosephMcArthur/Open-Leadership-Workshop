@@ -2,7 +2,7 @@
 
 These are my notes from the [Open Leadership Workshop](leaders.rufuspollock.org). I tried to do them via Github and a basic text editor for the first time. 
 
-While doing this I learned:
+## While doing this I learned:
 
 * How to turn local files into something Github understands. 
 * I learned how to do basic things via Github locally

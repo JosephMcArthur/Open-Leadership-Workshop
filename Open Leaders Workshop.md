@@ -260,6 +260,7 @@ My ideas:
 * Comment(s) from the crowd that this might be appropriate for all cultures. 
 * What you put in place must be something outside yourself. "I'll try harder" has no real traction. 
 * Important to say this outloud and include the impact on yourself. Humans often reflect by speaking. 
+* With the first two points don't introduce "reasons". Keep them crisp. 
 
 # Day 1 - Takeaways
 
@@ -281,6 +282,7 @@ My ideas:
 .* Scarcity / Abundance
 * The size of tech (in the number of staff) companies getting to IPO's or 1 billion dollars is ever smaller
 * Strategy vs. Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics. 
+* Rufus doesn't think that group intros (20 seconds round the circle) isn't useful. 
 
 # Acknowledgements
 
