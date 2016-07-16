@@ -93,7 +93,6 @@ Earlier in the structure we often appologise for the objections to the call to a
 1 We have more processing power
 2 Data is different / information is different. Having a house doesn't mean there is a copy for everyone - having a copy of gangman style means there is. 
 
-
 ### My example
 
 * What's special about humans is that we make stuff
@@ -156,6 +155,7 @@ Finally, why open ever more generally:
 * Well-being [insert slide text]
 
 # Day 1 - Afternoon
+
 # Day 1 - Takeaways
 
 * OpenCon: First name on badges should be big
