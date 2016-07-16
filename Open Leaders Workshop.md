@@ -1,6 +1,6 @@
-# Open Leaders Workshop
+# Open Knowledge Leaders Program
 
-# Day one - Morning Part 2
+# Day one - Morning Part 1
 
 ## Intros & Rules
 
@@ -165,16 +165,45 @@ Enrolling someone by touch, moving and inspiring them. Instead getting them to d
 ## What happens if we do nothing or what's the probable future
 
 * Centralized propriatary world 
+.* Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections. 
 
-Fear sells. Stress what's wrong. 
+Fear sells. Stress what's wrong. Wrap that in a story and you're on to a winner.
 
 For example, Google. For Rufus that means people get all their information about him there.
-
-Back in the day, Western Union gave intel on the democrats to the republicans and that swayed the elections. 
 
 ### Exersize
 
 * Take 30 seconds to explain what happens if we do nothing - or what the big problems are
+
+* You have to be really clear about the problem when you're trying to drive people to action.
+* You need to be clear about what the problem is, and find a clear articulation of the issue. 
+.* How do you feel about your election data in Germany coming from a for-profit corperation in San-Fransisco? Can you imagine anything going wrong with that? 
+
+* Stories of these problems are best followed by stories of hope. Ultimately, Open offers hope.
+
+## Barriers in the way of Open
+
+### Music 
+
+* Conseratism
+* How will people be payd? 
+* What would I get? Self-interest 
+* Apathy from artists
+* Open will make it worse. Google can just take all the music and make a service and new music. 
+* Who has the power to make this work? 
+* How will the economy work (will people lose jobs)
+* How will it affect artists careers
+* Lack of autonomy or choice or artists
+* Loss of power
+
+But, to sum it up. Things normally come down too:
+
+1. Who will pay for it? 
+.* Business Models that rely on selling services around the content
+.* Public Money
+2. How would we make it happen? 
+
+### Medicine 
 
 # Day 1 - Takeaways
 
@@ -185,14 +214,14 @@ Back in the day, Western Union gave intel on the democrats to the republicans an
 # Day 2 - Afternoon
 # Day 2 - Takeaways
 
-## MISC
+# MISC
 
-Daniel's Phone number: +41 794551705
+* Daniel's Phone number: +41 794551705
+* Lenses to look at open through:
+.* Power
+.* Scarcity / Ubundence
+* The size of tech (in the number of staff) companies getting to IPO's or 1 billion dollars is ever smaller
 
-Lenses to look at open through:
-* Power
-* Scarcity / Ubundence
-
-## Acknowledgements
+# Acknowledgements
 
 Text and ideas from Rufus Pollock (@Rufuspollock) & Irina [TODO]

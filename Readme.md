@@ -1,6 +1,6 @@
 # Open Leadership Workshop
 
-These are my notes from the leaders.rufuspollock.org(Open Leadership Workshop). I tried to do them via Github and a basic text editor for the first time. 
+These are my notes from the [Open Leadership Workshop](leaders.rufuspollock.org). I tried to do them via Github and a basic text editor for the first time. 
 
 While doing this I learned:
 
@@ -11,4 +11,4 @@ While doing this I learned:
 * It's quite pleasing to write in markdown for a workshop. You don't need to leave the keyboard. 
 * I need to work on my markdown skills
 * I miss the on the fly formatting
-*  
+* Landmark style in these types of training sessions seems really good
