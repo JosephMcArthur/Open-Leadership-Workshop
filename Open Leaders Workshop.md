@@ -396,6 +396,39 @@ He's offering a world of abundance and flourishing.
 An Open world = all public information is open
 ... and private information stays private.
 
+* A movement is a lot like a comet ( 0---- ). It has a bright fiery part, and a long tail.   
+* Clearly we need an Open party - visa ve the Green Party.
+
+### My project Idea
+
+My community map involved:
+
+* OpenCon / R2RC / SPARC
+* Open Access Button
+* Open Knowledge and broader open knowledge movement
+* Old School friends
+* Uni friends
+* Medsin friends
+* Family
+* Climbers
+* Nerdfighters
+
+This my project idea for the program:
+
+* Aim: Make a large Youtube vlogger mention and talk about Open
+* Measure: Youtube vlogger talking about Open.
+* Actions:
+ * Get involved in Facebook groups,
+ * Go to meet ups for the groups, try and get connected.
+ * Email / Comment / Tweet at people
+ * Invite the vloggers to be interviewed
+
+ I commit to this project - Joseph McArthur.
+
+ Sentence structure that's useful for this: I want to do << these things >> to have <<this impact>>, measured in <<this way>> by << this time >>. My first actions are <<these things>>. 
+
+ My phrasing in this style is:
+
 # Day 2 - Afternoon - Part 2
 # Day 2 - Takeaways
 
