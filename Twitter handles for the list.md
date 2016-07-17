@@ -1,11 +1,13 @@
-# Twitter handles for the list
+# Twitter handles for the Open Knowledge Leaders Program List.
+
+List is here: https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program
 
 - [x] @Protohedghog
 - [x] @Rufuspollock
 - [x] @tombernr
 - [x] @PeterKraker
 - [x] @mcarthur_joe
-- [ ] Shevski
+- [ ] @Shevski
 - [ ] @scottdavidcraig
 - [ ] @karenmorton11
 - [ ] @kazarena

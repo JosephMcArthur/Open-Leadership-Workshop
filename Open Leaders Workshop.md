@@ -391,6 +391,11 @@ He keeps saying that he "invites us" or "offers us something".
 
 He's offering a world of abundance and flourishing.
 
+## A vision: An Open world (is possible and better)
+
+An Open world = all public information is open
+... and private information stays private.
+
 # Day 2 - Afternoon - Part 2
 # Day 2 - Takeaways
 
