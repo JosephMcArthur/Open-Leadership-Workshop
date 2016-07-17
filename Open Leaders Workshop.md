@@ -164,7 +164,7 @@ Enrolling someone by touch, moving and inspiring them. Instead getting them to d
 ## What happens if we do nothing or what's the probable future
 
 * Centralized proprietary world
-.* Back in the day, Western Union gave Intel on the democrats to the republicans and that swayed the elections.
+ * Back in the day, Western Union gave Intel on the democrats to the republicans and that swayed the elections.
 
 Fear sells. Stress what's wrong. Wrap that in a story and you're on to a winner.
 
@@ -175,7 +175,7 @@ For example, Google. For Rufus that means people get all their information about
 * Take 30 seconds to explain what happens if we do nothing - or what the big problems are
 * You have to be really clear about the problem when you're trying to drive people to action.
 * You need to be clear about what the problem is, and find a clear articulation of the issue.
-.* How do you feel about your election data in Germany coming from a for-profit corporation in San Francisco? Can you imagine anything going wrong with that?
+ * How do you feel about your election data in Germany coming from a for-profit corporation in San Francisco? Can you imagine anything going wrong with that?
 * Stories of these problems are best followed by stories of hope. Ultimately, Open offers hope.
 
 ## Barriers in the way of Open
@@ -196,16 +196,16 @@ For example, Google. For Rufus that means people get all their information about
 But, to sum it up. Things normally come down too:
 
 1. Who will pay for it?
-.* Business Models that rely on selling services around the content
-..* Returns a private good
-..* Two types of models
-...1. Ketchup and fries. Have to give away the fries to sell the ketchup.
-...2. Razor and Razor blades.
+ * Business Models that rely on selling services around the content
+  * Returns a private good
+  * Two types of models
+   1. Ketchup and fries. Have to give away the fries to sell the ketchup.
+   2. Razor and Razor blades.
 
 Sadly this doesn't really cut it for a fully Open world. However, it does give good jobs. Doctors / Engineers / Lawyers are actually ketchup and fries jobs in a way as they rely on a big pool of open information.  
 
-.* Public Money
-..* Returns a public good
+ * Public Money
+  * Returns a public good
 
 This is the major mechanism we've funded public goods, and will continue to have to. Classic example is Research. However, even Linux, and therefor now Android, has roots in public funds. [Insert: Rufus's chain-link here.]
 
@@ -370,9 +370,15 @@ but instead, more powerful skills like:
 * Dealing with inter-personal issues
 * Emotional intelligence, and our own emotions.
 
-and potentially on the way we'll pick up the first points. 
+and potentially on the way we'll pick up the first points.
 
 # Day 2 - Afternoon - Part 1
+
+Why are you passionate about open? Tips:
+
+* Connect it to you!  
+* Identify what your key points are, and boil them down to their truest form.
+
 # Day 2 - Afternoon - Part 2
 # Day 2 - Takeaways
 
@@ -380,8 +386,8 @@ and potentially on the way we'll pick up the first points.
 
 * Daniel's Phone number: +41794551705
 * Lenses to look at open through:
-.* Power
-.* Scarcity / Abundance
+ * Power
+ * Scarcity / Abundance
 * The size of tech (in the number of staff) companies getting to IPO's or 1 billion dollars is ever smaller
 * Strategy vs. Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics.
 * Rufus doesn't think that group intros (20 seconds round the circle) isn't useful.
