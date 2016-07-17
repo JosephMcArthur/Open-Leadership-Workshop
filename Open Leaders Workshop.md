@@ -23,12 +23,15 @@
 * His name is Rufus Pollock. Been a researcher / activist - now he says "social entrepreneur". Founded & run OK
 * Grew up on a farm, mum doesn't know what he does, had 7 dogs & 3 cats.
 * Irina / Era: Only had one cat. Worked in the open space for about 6 years. Before that worked in print companies / banks. Led CKAN for years, which now powers 25 different nation states. Cares about decentralising tech (runs decentralise.org).
-* Mentions coach-ability (like landmark)
-* Default to private
-* Safe space
-* Open minds "get what you can out of this"
-* Be present (i.e. don't do this)
-* Be on time bro.
+* Rules
+ * Mentions coach-ability (like landmark)
+ * Default to private
+ * Safe space
+ * Open minds "get what you can out of this"
+ * Be present (i.e. don't do this)
+ * Be on time bro.
+* Tips
+ * Listen for what you can get
 
 ## What is open?
 
@@ -500,11 +503,20 @@ Rufus speaks about everything he does as being a **patch work quilt** of what ot
 
 Rufus mentions how today might just mark the 2nd generation of the Open movement. The deep, longer fight is beginning here. He talks about us a fellowship, a fellowship making an Open world. Now, as leaders, we have to go out to make other leaders.
 
-# Day 2 - Takeaways
+# Post Chats
 
-# Progress Review
+During chat afterwards I spoke about the morning session being my day to day, and at the route of many of my problems. The experience of folks not doing small things has led to whole projects not working, organizations not learning and me personally struggling to work on projects. Working with others stresses me out because often "as a unit" we don't have integrity (which is a nice way of saying they don't have integrity).
 
-How did I do?
+* When you're focused on your commitment - You haven't failed until you've given up.
+
+* How do you powerfully deal with being tragically flawed?
+* Is the team you're in panacea or poison.
+
+# End of in person weekend
+
+## Progress Review
+
+How did I do at the end of the first few days? Against my first few original goals:
 
 - [ ] Investigate why I’m more stressed than previously and enjoying my work less.
 
@@ -516,11 +528,11 @@ Status: Possibly linked to the above. Making people wrong and lacking integrity.
 
 - [ ] Learn from the approaches of others, and share what I’ve learned
 
-Status: Ongoing. Intended for projects later. Shared what I learned from Landmark a fair bit and got good feedback.
+Status: Ongoing. Intended for projects later. Shared what I learned from Landmark a fair bit and got good feedback on how it helped others.
 
 - [ ] Get mentorship and feedback on my current work
 
-Status: Ongoing. Intended for projects later.
+Status: Ongoing. Intended for projects later. However,
 
 - [ ] see how others balance their commitment to open with friends and family
 
@@ -529,6 +541,12 @@ Status: Uncompleted. However, I realized something that would matter to me is ha
 - [ ] understand what stops people being leaders and how we can remove those barriers
 
 Status: Saw lots of people struggle to deal with integrity, and the deepest concepts of leadership.
+
+However, during the workshop I added some:
+
+- [ ] Being able to engage volunteers in a way that doesn't cause them burnout
+- [ ] Not being resigned and cynical about working with volunteers
+- [ ] Run organizations with integrity
 
 # MISC
 
@@ -540,6 +558,9 @@ Status: Saw lots of people struggle to deal with integrity, and the deepest conc
 * Strategy vs. Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics.
 * Rufus doesn't think that group intros (20 seconds round the circle) isn't useful.
 * Sometimes people don't want to put sessions forwards for the unconference because they're scared their session won't be scheduled and that would cause rejecting.
+* You can choose to do a FOI either publicly or privately. That is similar to ODB.
+* This type of training is super useful.
+
 
 # Acknowledgements
 
