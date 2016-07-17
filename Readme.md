@@ -18,8 +18,8 @@ They're not intended as a polished synopsis of what I've taken from the weekend.
 
 ## Next Steps
 
-* Connect up Nationbuilder with my local system
-* Connect up OAB's repo's with my account and edit here - not on Github
-* Edit a real HTML / CSS file here
-* Learn how to sync changes from online to my local files (may introduce a conflict)
-* 
+- [ ] Connect up Nationbuilder with my local system
+- [ ] Connect up OAB's repo's with my account and edit here - not on Github
+- [ ] Edit a real HTML / CSS file here
+- [x] Learn how to sync changes from online to my local files (may introduce a conflict)
+ 
