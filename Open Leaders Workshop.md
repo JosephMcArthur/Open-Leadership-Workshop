@@ -1,5 +1,20 @@
 # Open Knowledge Leaders Program
 
+# Pre-work
+
+## Write down what are your aims and goals are for the course - what do you hope to get out of it.1
+
+* Investigate why I’m more stressed than previously
+* Dig into my emotional response to work at the moment.
+* Learn from the approaches of others, and share what I’ve learned
+* Get mentorship and feedback on my current work
+* see how others balance their commitment to open with friends and family
+* understand what stops people being leaders and how we can remove those barriers
+
+## Pick at least one community which you know and where openness could make a difference
+
+* Research, duh.
+
 # Day one - Morning - Part 1
 
 ## Intros & Rules
@@ -51,7 +66,7 @@ Data & information insect at many different points.
 * Complete
 * Dependable
 
-Need to boil that down into what's actually key for open. ** Spoilers **: It's the reusable bit.
+Need to boil that down into what's actually key for open. **Spoilers** :  It's the reusable bit.
 
 ## Context is important
 
@@ -217,7 +232,6 @@ We could have open Spotify for 90p a month.
 * In this model you may still pay for servers, or you might still pay the rivalrous costs of a drug. But you don't pay for the idea or IP.
 
 # Day 1 - Afternoon - Part 2
-
 
 2. How would we make it happen?
 
@@ -425,12 +439,96 @@ This my project idea for the program:
 
  I commit to this project - Joseph McArthur.
 
- Sentence structure that's useful for this: I want to do << these things >> to have <<this impact>>, measured in <<this way>> by << this time >>. My first actions are <<these things>>. 
+ Sentence structure that's useful for this: I want to do << these things >> with <<this community>> to have <<this impact>>, measured in <<this way>> by << this time >>. My first actions are <<these things>>.
 
  My phrasing in this style is:
 
-# Day 2 - Afternoon - Part 2
+* [TODO]
+
+My question at this point now though is what my project would do for me? What do I work through while doing it? Would it be powerful for me?
+
+What did I come here to do?
+
+> * Investigate why I’m more stressed than previously
+> * Dig into my emotional response to work at the moment.
+> * Learn from the approaches of others, and share what I’ve learned
+> * Get mentorship and feedback on my current work
+> * see how others balance their commitment to open with friends and family
+> * understand what stops people being leaders and how we can remove those barriers
+
+What might my project give me:
+
+* Practice enrolling people (like my family and friends) about Open.
+* Refresh some old tactics I used to use.
+* A chance to reach a new community who could be interested in Open.
+
+#### My other project ideas
+
+> * Community Strategy for OpenCon?
+> * OAB something, discussions with Authors about datasets and articles? Grant proposal.
+> * Do an Open Leadership Workshop?
+> * Open Slide deck and new deck for the community?
+> * Simply have my friends understand what I do, why I do it, and be excited about it (friends could = random people in coffee shop)
+> * ImpactStory idea
+
+What won't it help with:
+
+* My current work, at least directly.
+...
+* Basically all of the things I want out of this.
+
+May want to re-think the project to get more of the things I want out of this. OR, re-evaluate my list with the knowledge the program is much deeper and more meaningful. As I type that, I think about:
+
+* Being able to engage volunteers in a way that doesn't cause them burnout
+* Not being resigned and cynical about working with others
+* Run organizations with integrity
+
+# Day 2 - Final Session
+
+What did people get out the weekend?
+
+* Meeting people
+* Meeting the CEO
+* Go through the process of why you like openness.
+* How to structure of conversation
+* When hosts spoke about their failures
+* Adding something to my definition of leadership. Often to experience of leadership is stuff isn't working and failing.
+
+Rufus speaks about everything he does as being a **patch work quilt** of what others have said and done.
+
+* Rufus & Irina both mention what they've learned from us.
+
+Rufus mentions how today might just mark the 2nd generation of the Open movement. The deep, longer fight is beginning here. He talks about us a fellowship, a fellowship making an Open world. Now, as leaders, we have to go out to make other leaders.
+
 # Day 2 - Takeaways
+
+# Progress Review
+
+How did I do?
+
+- [ ] Investigate why I’m more stressed than previously and enjoying my work less.
+
+Status: Fear of failure, the stakes are bigger. Have to rely on others integrities, not just my own.
+
+- [ ] Dig into my emotional response to work at the moment.
+
+Status: Possibly linked to the above. Making people wrong and lacking integrity.
+
+- [ ] Learn from the approaches of others, and share what I’ve learned
+
+Status: Ongoing. Intended for projects later. Shared what I learned from Landmark a fair bit and got good feedback.
+
+- [ ] Get mentorship and feedback on my current work
+
+Status: Ongoing. Intended for projects later.
+
+- [ ] see how others balance their commitment to open with friends and family
+
+Status: Uncompleted. However, I realized something that would matter to me is having them enrolled in what I do and getting it.
+
+- [ ] understand what stops people being leaders and how we can remove those barriers
+
+Status: Saw lots of people struggle to deal with integrity, and the deepest concepts of leadership.
 
 # MISC
 
@@ -445,4 +543,4 @@ This my project idea for the program:
 
 # Acknowledgements
 
-Text and ideas from Rufus Pollock (@Rufuspollock) & Irina [TODO]
+Text and ideas from Rufus Pollock (@Rufuspollock) & Irina Bolychevsky (@Shevski) & [https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program](participants) (not named to protect anonymity).

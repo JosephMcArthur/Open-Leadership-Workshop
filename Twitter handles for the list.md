@@ -7,7 +7,7 @@ List is here: https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program
 - [x] @tombernr
 - [x] @PeterKraker
 - [x] @mcarthur_joe
-- [ ] @Shevski
+- [x] @Shevski
 - [ ] @scottdavidcraig
 - [ ] @karenmorton11
 - [ ] @kazarena
