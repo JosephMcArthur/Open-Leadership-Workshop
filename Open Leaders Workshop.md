@@ -222,10 +222,10 @@ We could have open Spotify for 90p a month.
 2. How would we make it happen?
 
 * Change minds
-.* Mistaken Mental Models: People think books are like bread.
+ * Mistaken Mental Models: People think books are like bread.
 * Poor Power Dynamics
-.* Lobbyist
-.* When you have people on your side -
+ * Lobbyist
+ * When you have people on your side -
 
 * Make it ourselves
 
@@ -283,19 +283,19 @@ Pause while folks who're late regain their integrity. He reflects on how many of
 * Doing the integrity restoration was harder than I expected. Was it because they were at the front or not?
 * Massive breakdown in the understanding of integrity. Some in the room rejects the concept pretty heavily. Rufus handles it pretty excellently. Takes each persons points, repeats them back, and deals with them point by point.
 * Issues people have is:
-.* Why are you dealing with being late like this
-.* Not seeing the point of the Exercise or why integrity is useful for leadership
-.* Doing this is hard to watch and awkward to see. It's like being in school
-.* Idea seems to emerge that Rufus has some alternate motive?
-.* Suggested this is authoritarian. Rufus won't accept someones point, and will just work with them until they accept his point.
+ * Why are you dealing with being late like this
+ * Not seeing the point of the Exercise or why integrity is useful for leadership
+ * Doing this is hard to watch and awkward to see. It's like being in school
+ * Idea seems to emerge that Rufus has some alternate motive?
+ * Suggested this is authoritarian. Rufus won't accept someones point, and will just work with them until they accept his point.
 
 After a while, the group then starts to shift and people who were questioning things actually seemed to start trying to address it and fix things.
 
-.* Irina acknowledges that this is hard.
-.* A member of the group reacts in an angry way to how the session is facilitated, and it's decided we should take a break.
-..* During the break every one discusses.
-..* Rufus thanks person who reacted angrily.
-..* That person eventually tries to leave, but Irina ask him to stay for her session.
+ * Irina acknowledges that this is hard.
+ * A member of the group reacts in an angry way to how the session is facilitated, and it's decided we should take a break.
+  * During the break every one discusses.
+  * Rufus thanks person who reacted angrily.
+  * That person eventually tries to leave, but Irina ask him to stay for her session.
 
 
 
@@ -321,19 +321,19 @@ In this session we're digging deeper into Leadership. We want to talk about comm
 In this course, we're going to try and understand what it means to be Committed vs attached.
 
 * Rufus declares a breakdown.
-.* Says what happened, what the impact was (on him, and the group). He talks about people not liking him, or if he did something wrong. Talks about why he's doing this. He's touched by what others do in the community, and how he wants the best for others.
-..* Aside: Mentions that the default for many of us in this space is failure. We'll lose many many fights. That leads to breakdowns.  
-..* He actually apologizes to people.
-..* Assigns actions to himself.
-.* of course, what they're actually doing here is walking us through a integrity restoration.
+ * Says what happened, what the impact was (on him, and the group). He talks about people not liking him, or if he did something wrong. Talks about why he's doing this. He's touched by what others do in the community, and how he wants the best for others.
+  * Aside: Mentions that the default for many of us in this space is failure. We'll lose many many fights. That leads to breakdowns.  
+  * He actually apologizes to people.
+  * Assigns actions to himself.
+ * of course, what they're actually doing here is walking us through a integrity restoration.
 
 * The group discusses how they feel, and what they're getting out of the discussion.
-.* After a while, I realize that when I started my integrity course I got angry at the leader, reacted by telling them that and disengaging somewhat from the course. My first reaction to the person getting angry was making them wrong, without being able to empathize.
-..* After this, I managed, maybe for the first time (after 3 months on a course about integrity), to deeply tie the concept of integrity and why restoring it is important to what I'm trying to do.
-...* I always said during the course that I had good integrity, so didn't understand why it was important or what I could learn. Here I understood that maybe helping others around me have integrity is what I can get out the concept.
+ * After a while, I realize that when I started my integrity course I got angry at the leader, reacted by telling them that and disengaging somewhat from the course. My first reaction to the person getting angry was making them wrong, without being able to empathize.
+  * After this, I managed, maybe for the first time (after 3 months on a course about integrity), to deeply tie the concept of integrity and why restoring it is important to what I'm trying to do.
+  * I always said during the course that I had good integrity, so didn't understand why it was important or what I could learn. Here I understood that maybe helping others around me have integrity is what I can get out the concept.
 
 * After a while I start to feel that why we've spent hours on it is because the experience of leadership is failure and things not working. Finding a way to deal with that powerfully is critical to our success.
-.* Right after this Irina essentially says this (and more). She says that it's important that we separate out our expectations, and instead replace our expectations with a commitment to something bigger than ourselves. The experience of failure is where reality doesn't meet your expectations. You can't fail at a commitment, so focusing on that removes the experience of failure.
+ * Right after this Irina essentially says this (and more). She says that it's important that we separate out our expectations, and instead replace our expectations with a commitment to something bigger than ourselves. The experience of failure is where reality doesn't meet your expectations. You can't fail at a commitment, so focusing on that removes the experience of failure.
 * Rufus starts to talk about how we can "be". If we commit to something bigger we can live in service of that and be our commitment to that.Without integrity, a few things happen:
 1. We only promise small things
 2. We promise a lot, but our word is cheap and it doesn't happen
@@ -348,8 +348,8 @@ With integrity, you can get out of those buckets.
 * Purpose - what you deeply care about (in this Area)
 * How do i fulfil on that? Take actions - with others
 * Makeing that work well and play big
-.* integrity
-.* Dealing with breakdown
+ * integrity
+ * Dealing with breakdown
 * Boldness, freedom, empowerment.  
 
 He talks about play, and encouraging us to be playful in our work.
@@ -376,8 +376,19 @@ and potentially on the way we'll pick up the first points.
 
 Why are you passionate about open? Tips:
 
-* Connect it to you!  
+* Connect it to you! Why does that big international thing matter to YOU.
 * Identify what your key points are, and boil them down to their truest form.
+*
+
+For me:
+* I get to be useful and contribute to important things
+* Solving Inequality, slow research, can't make drugs.
+* Some sort of system-wide stuff. 
+
+Rufus keeps saying "we're up to something big". We're trying to make every public piece of information is open.
+He keeps saying that he "invites us" or "offers us something".
+
+He's offering a world of abundance and flourishing.
 
 # Day 2 - Afternoon - Part 2
 # Day 2 - Takeaways
