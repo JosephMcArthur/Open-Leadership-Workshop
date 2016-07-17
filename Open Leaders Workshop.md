@@ -378,12 +378,13 @@ Why are you passionate about open? Tips:
 
 * Connect it to you! Why does that big international thing matter to YOU.
 * Identify what your key points are, and boil them down to their truest form.
-*
 
 For me:
 * I get to be useful and contribute to important things
 * Solving Inequality, slow research, can't make drugs.
-* Some sort of system-wide stuff. 
+* Some sort of system-wide stuff.
+
+I need to work on this more. It's not clear enough, although people liked it.
 
 Rufus keeps saying "we're up to something big". We're trying to make every public piece of information is open.
 He keeps saying that he "invites us" or "offers us something".

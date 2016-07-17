@@ -5,25 +5,25 @@
 - [x] @tombernr
 - [x] @PeterKraker
 - [x] @mcarthur_joe
-- [] Shevski
-- [] @scottdavidcraig
-- [] @karenmorton11
-- [] @kazarena
-- [] @j_kloiber
-- [] @yebaforbang
-- [] @richardgevers
-- [] @pzwsk
-- [] @prfnv
-- [] @mikahonkanenfi
-- [] @agonarch
-- [] @sparc_eu
-- [] @biocrusoe
-- [] @antica_c
-- [] @ingo_keck
-- [] @dhuerlimann
-- [] @ingmmo
-- [] @lebowskiana
-- [] @mfioretti_en
-- [] @roschaefer1
-- [] @stefankasberger
-- [] TODO: Tom
+- [ ] Shevski
+- [ ] @scottdavidcraig
+- [ ] @karenmorton11
+- [ ] @kazarena
+- [ ] @j_kloiber
+- [ ] @yebaforbang
+- [ ] @richardgevers
+- [ ] @pzwsk
+- [ ] @prfnv
+- [ ] @mikahonkanenfi
+- [ ] @agonarch
+- [ ] @sparc_eu
+- [ ] @biocrusoe
+- [ ] @antica_c
+- [ ] @ingo_keck
+- [ ] @dhuerlimann
+- [ ] @ingmmo
+- [ ] @lebowskiana
+- [ ] @mfioretti_en
+- [ ] @roschaefer1
+- [ ] @stefankasberger
+- [ ] TODO: Tom
