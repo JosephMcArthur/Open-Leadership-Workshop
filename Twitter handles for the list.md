@@ -9,23 +9,24 @@ List is here: https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program
 - [x] @mcarthur_joe
 - [x] @Shevski
 - [ ] @scottdavidcraig
-- [ ] @karenmorton11
-- [ ] @kazarena
+- [x] @karenmorton11
+- [x] @kazarena
 - [ ] @j_kloiber
-- [ ] @yebaforbang
-- [ ] @richardgevers
-- [ ] @pzwsk
-- [ ] @prfnv
-- [ ] @mikahonkanenfi
-- [ ] @agonarch
-- [ ] @sparc_eu
-- [ ] @biocrusoe
-- [ ] @antica_c
-- [ ] @ingo_keck
-- [ ] @dhuerlimann
-- [ ] @ingmmo
-- [ ] @lebowskiana
-- [ ] @mfioretti_en
-- [ ] @roschaefer1
-- [ ] @stefankasberger
+- [ ] @yebaforbang (protected)
+- [x] @richardgevers
+- [x] @pzwsk
+- [x] @prfnv
+- [x] @mikahonkanenfi
+- [x] @agonarch
+- [x] @sparc_eu
+- [x] @biocrusoe
+- [x] @antica_c
+- [x] @ingo_keck
+- [x] @dhuerlimann
+- [x] @ingmmo
+- [x] @lebowskiana
+- [x] @mfioretti_en
+- [x] @roschaefer1
+- [x] @stefankasberger
+- [x] @benmeg
 - [ ] TODO: Tom
