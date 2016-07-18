@@ -12,7 +12,7 @@ List is here: https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program
 - [x] @karenmorton11
 - [x] @kazarena
 - [ ] @j_kloiber
-- [ ] @yebaforbang (protected)
+- [ ] @yebaforbang (protected account)
 - [x] @richardgevers
 - [x] @pzwsk
 - [x] @prfnv
@@ -29,4 +29,5 @@ List is here: https://twitter.com/Mcarthur_Joe/lists/ok-leaders-program
 - [x] @roschaefer1
 - [x] @stefankasberger
 - [x] @benmeg
+- [x] @arielkogan
 - [ ] TODO: Tom
