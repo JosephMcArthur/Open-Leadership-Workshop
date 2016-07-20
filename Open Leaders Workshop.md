@@ -90,7 +90,7 @@ What context MATTERS to communicate, "open"?
 * Information centralization
 * Filtering problem on the amounts of information
 * Information has become non-rivelrous.   
-* There is now a gatekeeper to accessing info. To read paper you just need your eyes, to read it digitally you need word. That gives word control **cries**.
+* There is now a gatekeeper to accessing info. To read paper you just need your eyes, to read it digitally you need word. That gives microsoft word control **cries**.
 
 Ironically the age which allows the greatest sharing has led to incredible centralization and inequality *bwam bwaaaaaam*
 
@@ -512,21 +512,21 @@ During chat afterwards I spoke about the morning session being my day to day, an
 * How do you powerfully deal with being tragically flawed?
 * Is the team you're in panacea or poison.
 
-# End of in person weekend
+# End
 
-## Progress Review
+# Progress Review
 
 How did I do at the end of the first few days? Against my first few original goals:
 
-- [ ] Investigate why I’m more stressed than previously and enjoying my work less.
+- [x] Investigate why I’m more stressed than previously and enjoying my work less.
 
 Status: Fear of failure, the stakes are bigger. Have to rely on others integrities, not just my own.
 
-- [ ] Dig into my emotional response to work at the moment.
+- [x] Dig into my emotional response to work at the moment.
 
 Status: Possibly linked to the above. Making people wrong and lacking integrity.
 
-- [ ] Learn from the approaches of others, and share what I’ve learned
+- [x] Learn from the approaches of others, and share what I’ve learned
 
 Status: Ongoing. Intended for projects later. Shared what I learned from Landmark a fair bit and got good feedback on how it helped others.
 
@@ -534,7 +534,7 @@ Status: Ongoing. Intended for projects later. Shared what I learned from Landmar
 
 Status: Ongoing. Intended for projects later. However,
 
-- [ ] see how others balance their commitment to open with friends and family
+- [x] see how others balance their commitment to open with friends and family
 
 Status: Uncompleted. However, I realized something that would matter to me is having them enrolled in what I do and getting it.
 
@@ -545,8 +545,16 @@ Status: Saw lots of people struggle to deal with integrity, and the deepest conc
 However, during the workshop I added some:
 
 - [ ] Being able to engage volunteers in a way that doesn't cause them burnout
+
+Status: In-progress. Feel better currently as I feel like I have a new set of tool to try again in a meaningfuly different way.
+
 - [ ] Not being resigned and cynical about working with volunteers
-- [ ] Run organizations with integrity
+
+Status: In-progress. Feel better currently as I feel like I have a new set of tool to try again in a meaningfuly different way.
+
+- [ ] Run organizations/groups with integrity
+
+Status: Suggested I go on Landmark advanced course
 
 # MISC
 
@@ -558,9 +566,7 @@ However, during the workshop I added some:
 * Strategy vs. Tactics. For us, in this room, it's important to be clear on strategies. However what we often use to communicate is tactics.
 * Rufus doesn't think that group intros (20 seconds round the circle) isn't useful.
 * Sometimes people don't want to put sessions forwards for the unconference because they're scared their session won't be scheduled and that would cause rejecting.
-* You can choose to do a FOI either publicly or privately. That is similar to ODB.
-* This type of training is super useful.
-
+* You can choose to do a FOI either publically or privately. That is similar to ODB.
 
 # Acknowledgements
 
