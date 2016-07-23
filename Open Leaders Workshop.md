@@ -150,7 +150,7 @@ I'm passionate about:
 
 A generic structure for conversations about Open:
 
-1. Situation/Context: I care about <<thing>> because <<reason>>
+1. Situation/Context: I care about << thing >> because << reason >>
 2. What's the problem / challenge / danger
 3. How openness is an antidote to the above / what's the difference openness will make
 
@@ -248,7 +248,6 @@ We could have open Spotify for 90p a month.
 
 # This is what the Leaders Program is about
 * Changing minds
-* ???
 So, we need a project to practice. It can be either:
 * Something you're already working on
 * Something new
@@ -442,7 +441,7 @@ This my project idea for the program:
 
  I commit to this project - Joseph McArthur.
 
- Sentence structure that's useful for this: I want to do << these things >> with <<this community>> to have <<this impact>>, measured in <<this way>> by << this time >>. My first actions are <<these things>>.
+   Sentence structure that's useful for this: I want to do << these things >> with << this community >> to have << this impact >>, measured in << this way >> by << this time >>. My first actions are << these things >>.
 
  My phrasing in this style is:
 
@@ -555,6 +554,15 @@ Status: In-progress. Feel better currently as I feel like I have a new set of to
 - [ ] Run organizations/groups with integrity
 
 Status: Suggested I go on Landmark advanced course
+
+# Classroom one
+
+Notes are generally being made here: https://docs.google.com/document/d/1eyJsybpxnEcO4mrZhA-y5_t6Onxqj_IDcX9ubFBanvs/edit.
+
+### Take Aways
+
+* We need to be unambiguous about our requests
+ * Generous reason why the request is relevant to a person, clear invitation. The other person should have a clear option to say no.
 
 # MISC
 

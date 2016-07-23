@@ -3,7 +3,10 @@
 1. 3 great revolutions in making stuff
  * First food,
  * Then goods,
- * Now, information. [Chance to ask what information is / means]
+ * Now, information.
+
+[Chance to ask what information is / means]
+[Emoji slides for each thing]
 
 2. What is different in an information age? [Chance to ask audience]
 * Data is different.
