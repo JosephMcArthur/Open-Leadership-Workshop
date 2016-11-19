@@ -531,15 +531,15 @@ Status: Ongoing. Intended for projects later. Shared what I learned from Landmar
 
 - [ ] Get mentorship and feedback on my current work
 
-Status: Ongoing. Intended for projects later. However,
+Status:UPDATE: Never really got deep feedback, which is okay! Ongoing. Intended for projects later. However,
 
 - [x] see how others balance their commitment to open with friends and family
 
 Status: Uncompleted. However, I realized something that would matter to me is having them enrolled in what I do and getting it.
 
-- [ ] understand what stops people being leaders and how we can remove those barriers
+- [x] understand what stops people being leaders and how we can remove those barriers
 
-Status: Saw lots of people struggle to deal with integrity, and the deepest concepts of leadership.
+Status: UPDATE: Have more ideas, and have made progress, but haven't cracked it. Saw lots of people struggle to deal with integrity, and the deepest concepts of leadership.
 
 However, during the workshop I added some:
 
@@ -549,11 +549,11 @@ Status: In-progress. Feel better currently as I feel like I have a new set of to
 
 - [ ] Not being resigned and cynical about working with volunteers
 
-Status: In-progress. Feel better currently as I feel like I have a new set of tool to try again in a meaningfuly different way.
+Status: UPDATE: Potentially this got worse during my time on the course, and it might even extend to just all people. In-progress. Feel better currently as I feel like I have a new set of tool to try again in a meaningfuly different way.
 
-- [ ] Run organizations/groups with integrity
+- [x] Run organizations/groups with integrity
 
-Status: Suggested I go on Landmark advanced course
+Status: UPDATE: Made progress here in my own work, and have learned some bits from this course. Suggested I go on Landmark advanced course
 
 # Classroom one
 
