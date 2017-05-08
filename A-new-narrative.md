@@ -25,6 +25,8 @@
   * Growth [insert slide text]
   * Well-being [insert slide text]
 
+4. Introduce the concept of Open
+
 4. Research & Education is where that choice is most fundamental.
 
 5. Open Access
@@ -55,9 +57,9 @@
  * The time is now (recent reasons why we're losing or need to act e.g SSRN acquisition)
 
 8. Actions
- 1. ZYZ
- 2. XYZ
- 3. WVB
+ 1. ZYZ - depending on audience
+ 2. XYZ - depending on audience
+ 3. WVB - depending on audience
 
 9. End
  * Summary: Open lets us take full advantage of an information age. It allows to to ensure that the future is free, fair, (insert words from Rufus's slides). Lets start that fight where it's most important, Research & Education.
@@ -69,3 +71,31 @@ For workshops:
 
 * Get people to introduce themselves to their neighbor.
 * Get stickers for everyone, have them write their name.
+
+## 2 minute version
+
+1. 3 great revolutions in making stuff
+ * First food,
+ * Then goods,
+ * Now, information.
+
+2. What is different in an information age? [Chance to ask audience]
+* Data is different.
+ * It can be shared without loss of fidelity
+ * It can be shared without cost to the owner
+* Enough processing in our pocket to take on moonshots
+
+3. A choice
+ * If we do nothing
+  * Those same traits allow untold concentration of powers
+  * Ironically the age which allows the greatest sharing has led to incredible centralization and inequality
+ * If we act, we get:
+  * Inequality
+  * Freedom
+  * Power
+  * Growth
+  * Well-being
+
+4. My choice - to push open forwards
+
+5. Why - why it matters to me.
